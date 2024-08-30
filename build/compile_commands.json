@@ -1,0 +1,337 @@
+[
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\main.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/main.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\animate.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\animate.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/animate.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\dividebyzero.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\exceptions\\missingparan.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\missingparan.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\graph\\graph.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph\\graph.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\graph_info\\graph_info.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph_info\\graph_info.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\main.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\main.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/main.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\random.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\random.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/random.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\rpn\\rpn.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\rpn\\rpn.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\shunting_yard\\shunting_yard.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\sidebar.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\sidebar.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/stub/stub.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\system.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\system.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/system.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\alpha.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\alpha.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\function.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\function.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\integer.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\integer.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\leftparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\leftparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\operator.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\operator.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\rightparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\rightparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\tk_string.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\tk_string.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\_tests\\_test_files\\basic_test.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\_tests\\_test_files\\basic_test.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/_tests/_test_files/basic_test.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\animate.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\animate.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/animate.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\dividebyzero.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\exceptions\\missingparan.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\missingparan.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\graph\\graph.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph\\graph.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\graph_info\\graph_info.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph_info\\graph_info.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\main.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\main.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/main.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\random.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\random.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/random.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\rpn\\rpn.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\rpn\\rpn.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\shunting_yard\\shunting_yard.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\sidebar.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\sidebar.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/stub/stub.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\system.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\system.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/system.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\alpha.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\alpha.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\function.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\function.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\integer.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\integer.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\leftparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\leftparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\operator.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\operator.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\rightparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\rightparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\tk_string.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\tk_string.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\_tests\\_test_files\\testB.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\_tests\\_test_files\\testB.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/_tests/_test_files/testB.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\animate.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\animate.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/animate.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\dividebyzero.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\exceptions\\missingparan.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\exceptions\\missingparan.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\graph\\graph.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph\\graph.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\graph_info\\graph_info.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\graph_info\\graph_info.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\main.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\main.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/main.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\random.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\random.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/random.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\rpn\\rpn.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\rpn\\rpn.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\shunting_yard\\shunting_yard.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\sidebar.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\sidebar.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/stub/stub.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\system.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\system.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/system.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\alpha.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\alpha.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\function.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\function.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\integer.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\integer.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\leftparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\leftparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\operator.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\operator.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\rightparen.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\rightparen.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\tk_string.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\tk_string.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\natha\\Documents\\CS003A\\final_proj\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/natha/Documents/CS003A/final_proj/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

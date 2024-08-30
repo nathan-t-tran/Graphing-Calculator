@@ -1,0 +1,1 @@
+ lib/libgtestd.a "C:/MinGW/lib/libsfml-system.a" "C:/MinGW/lib/libsfml-window.a" "C:/MinGW/lib/libsfml-graphics.a" "C:/MinGW/lib/libsfml-network.a" "C:/MinGW/lib/libsfml-audio.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

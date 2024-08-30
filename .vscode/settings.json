@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "animate": "c",
+        "animate.h": "c",
+        "constants.h": "c",
+        "iostream": "c"
+    }
+}
